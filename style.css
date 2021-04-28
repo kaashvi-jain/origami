@@ -1,21 +1,21 @@
 h1{
-    color :rgb(223, 60, 128);
+    color :#FE6767;
     text-align: left;
 }
 p{
-    color: rgb(110, 228, 120);
+    color:#340de6;
     text-align:left;
 }
 .header{
     
     display:flex;
     justify-content: space-between;
-    background: lightpink;
+    background:#B2F5CB ;
 
 }
 .gride{
     display:flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background: rgb(223, 165, 142);
+    background:lightsalmon ;
 }
